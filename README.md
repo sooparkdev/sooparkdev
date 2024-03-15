@@ -38,3 +38,20 @@ Here are some ideas to get you started:
 **Tools:** 
 ![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white) 
 ![NPM](https://img.shields.io/badge/NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
+
+<p align="right">
+  <a href="mailto:soopark401@gmail.com">
+    <img src="https://img.icons8.com/fluent/48/000000/mail.png" width="35px" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/yourprofile">
+    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" width="35px" alt="LinkedIn"/>
+  </a>
+</p>
+
+
+
+
+
+
+
+
