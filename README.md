@@ -1,19 +1,14 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**sooparkdev/sooparkdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Engineer based in Seoul, passionate about Frontend development, with a budding career that has already taken off with less than a year of professional experience.
 
-Here are some ideas to get you started:
+My journey into the world of programming began in my freshman year of high school, diving into Python and branching out to Java, C++, and Microcontrollers. This early fascination led me to pursue Informatics in college in the United States, where I honed my skills and discovered my keen interest in Web Development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+After graduating, I embarked on my professional journey at a Series C [unicorn startup](https://www.linkedin.com/company/seek0ut/) in Bellevue, specializing in web development. However, my aspirations don't stop there. I am eager to delve into other domains within the tech industry, such as DevOps, AI, and Robotics, to find the best alignment for my skills, characteristics, and values.
+
+<br/>
+
+### ⚡ My Tech Stack
 **Languages:** 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) 
@@ -39,6 +34,25 @@ Here are some ideas to get you started:
 ![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white) 
 ![NPM](https://img.shields.io/badge/NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
 
+<br/>
+
+### 🔭 Current Projects I Am Actively Involved In
+
+- **[Settle Up](https://github.com/Settle-Up/settle-up-client)** <br/>
+      Settle Up is an innovative long-term expense sharing/tracking web application. It stands out in a crowded market by offering users the ability to set up groups, track multiple expenses over time, and calculate cost distribution among group members. Unlike typical services that only handle single expenses, Settle Up is designed to manage and distribute costs for numerous expenses accumulated over a period. This is achieved through a sophisticated graph algorithm that optimizes transactions between group members. Moreover, the app enhances user experience by allowing expense recording through receipt image uploads. Utilizing Azure AI Document Intelligence, it automatically extracts and processes receipt data. Users can easily attribute expenses to specific group members, even allocating variable quantities per item for more accurate split of costs.
+
+- **[Tasktagram](https://github.com/teamprojectinfrean1/Frontend)** <br/>
+
+
+<br/>
+
+### 😄 One Fun Fact About Me
+I am a certified Open Water Scuba Diver!
+
+<br/>
+<br/>
+
+<h4 align="right"> Connect with Me !</h4>
 <p align="right">
   <a href="mailto:soopark401@gmail.com">
     <img src="https://img.icons8.com/fluent/48/000000/mail.png" width="35px" alt="Email"/>
