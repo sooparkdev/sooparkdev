@@ -54,7 +54,7 @@
   <a href="mailto:soopark401@gmail.com">
     <img src="https://img.icons8.com/fluent/48/000000/mail.png" width="35px" alt="이메일"/>
   </a>
-  <a href="https://www.linkedin.com/in/yourprofile">
+  <a href="https://www.linkedin.com/in/soop/">
     <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" width="35px" alt="링크드인"/>
   </a>
 </p>
@@ -119,7 +119,7 @@ I am a certified Open Water Scuba Diver!
   <a href="mailto:soopark401@gmail.com">
     <img src="https://img.icons8.com/fluent/48/000000/mail.png" width="35px" alt="Email"/>
   </a>
-  <a href="https://www.linkedin.com/in/yourprofile">
+  <a href="https://www.linkedin.com/in/soop/">
     <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" width="35px" alt="LinkedIn"/>
   </a>
 </p>
