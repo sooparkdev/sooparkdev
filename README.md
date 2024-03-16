@@ -44,7 +44,7 @@
         전통적인 프로젝트 관리 플랫폼과 소셜 미디어 요소를 결합한 협업 작업 관리 웹 애플리케이션을 개발하고 있습니다. Jira와 같은 플랫폼에서 영감을 받아, Tasktagram은 사용자가 '할 일', '진행 중', '완료' 등 다양한 단계에서 작업을 생성, 추적, 진행할 수 있는 동적 인터페이스를 제공합니다. Instagram 스토리를 연상시키는 소셜 기능을 통해, 팀 구성원들이 진행 중인 작업의 상태를 공유하고 볼 수 있어 프로젝트 내 협업과 참여를 증진시코자 하는 목적을 갖고 있는 서비스입니다.
 
 <br/>
-<h4 align="right"> 저와 연결하세요!</h4>
+<h4 align="right"> 저와 연결하세요 !</h4>
 <p align="right">
   <a href="mailto:soopark401@gmail.com">
     <img src="https://img.icons8.com/fluent/48/000000/mail.png" width="35px" alt="이메일"/>
