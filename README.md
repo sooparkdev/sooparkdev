@@ -1,10 +1,10 @@
 # Hi there 👋
 
-I'm a Software Engineer based in Seoul, passionate about Frontend development, with a budding career that has already taken off with less than a year of professional experience.
+I'm a Software Engineer currently based in Seoul, passionate about Frontend development, with a budding career that has already taken off with less than a year of professional experience.
 
 My journey into the world of programming began in my freshman year of high school, diving into Python and branching out to Java, C++, and Microcontrollers. This early fascination led me to pursue Informatics in college in the United States, where I honed my skills and discovered my keen interest in Web Development.
 
-After graduating, I embarked on my professional journey at a Series C [unicorn startup](https://www.linkedin.com/company/seek0ut/) in Bellevue, specializing in web development. However, my aspirations don't stop there. I am eager to delve into other domains within the tech industry, such as DevOps, AI, and Robotics, to find the best alignment for my skills, characteristics, and values.
+After graduating, I embarked on my professional journey as a Software Engginer at a [Series C unicorn startup](https://www.linkedin.com/company/seek0ut/) in Bellevue. However, my aspirations don't stop there. I am eager to delve into other domains within the tech industry, such as DevOps, AI, and Robotics, to find the best alignment for my skills, characteristics, and values.
 
 <br/>
 
@@ -39,9 +39,10 @@ After graduating, I embarked on my professional journey at a Series C [unicorn s
 ### 🔭 Current Projects I Am Actively Involved In
 
 - **[Settle Up](https://github.com/Settle-Up/settle-up-client)** <br/>
-      Settle Up is an innovative long-term expense sharing/tracking web application. It stands out in a crowded market by offering users the ability to set up groups, track multiple expenses over time, and calculate cost distribution among group members. Unlike typical services that only handle single expenses, Settle Up is designed to manage and distribute costs for numerous expenses accumulated over a period. This is achieved through a sophisticated graph algorithm that optimizes transactions between group members. Moreover, the app enhances user experience by allowing expense recording through receipt image uploads. Utilizing Azure AI Document Intelligence, it automatically extracts and processes receipt data. Users can easily attribute expenses to specific group members, even allocating variable quantities per item for more accurate split of costs.
+      Settle Up is a long-term expense sharing/tracking web application. It stands out in a crowded market by offering users the ability to set up groups, track multiple expenses over time, and calculate cost distribution among group members. Unlike typical services that only handle single expenses, Settle Up is designed to manage and distribute costs for numerous expenses accumulated over a period. This is achieved through a sophisticated graph algorithm that optimizes transactions between group members. Moreover, the app enhances user experience by allowing expense recording through receipt image uploads. Utilizing Azure AI Document Intelligence, it automatically extracts and processes receipt data. Users can easily attribute expenses to specific group members, even allocating variable quantities per item for more accurate split of costs.
 
 - **[Tasktagram](https://github.com/teamprojectinfrean1/Frontend)** <br/>
+        Tasktagram is a collaborative task management web application, ingeniously blending traditional project management with social media elements to enhance team productivity and workflow. Inspired by platforms like Jira, Tasktagram offers a dynamic interface for managing tasks, allowing users to create, track, and progress issues across different stages—from 'To Do' to 'In Progress', and ultimately 'Completed'—through an intuitive drag-and-drop system. What truly distinguishes Tasktagram is its unique social feature, reminiscent of Instagram's stories, where team members can share and view the status of tasks in progress, fostering greater collaboration and engagement within projects. This app is not just a tool for task management; it's a bridge that connects the functionality of a rigorous project management system with the interactive, user-friendly aspects of a social platform, embodying its namesake by merging task tracking with a social glimpse into team dynamics. Through its streamlined design, Tasktagram aims to revolutionize the way teams approach project completion, ensuring better tracking, transparency, and team synergy.
 
 
 <br/>
