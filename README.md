@@ -36,7 +36,7 @@
 
 <br/>
 
-### 🔭 현재 진행하고 있는 프로젝트
+### 🔭 최근에 진행한 프로젝트
 
 - **[Settle Up](https://github.com/Settle-Up/settle-up-client)** <br/>
   프론트엔드 개발자로서, 한 명의 백엔드 개발자와 협력하여 장기간 경비 공유 및 추적을 위한 웹 애플리케이션인 'Settle Up'을 개발하고 있습니다. 이 프로젝트는 사용자들이 다른 이들과 그룹을 형성하여 일정 기간 동안 그룹 내 발생한 모든 비용을 기록하고 관리할 수 있는 플랫폼입니다. 'Settle Up'은 단발적인 비용 분배 계산과 달리, 장기간에 걸친 다수의 비용에 대해 효율적으로 분배를 계산하는 데 초점을 맞추고 있습니다. 모든 비용을 바탕으로 그룹원 간 거래 횟수를 최적화하기 위해 그래프 알고리즘을 활용합니다. 추가적으로, Azure AI 문서 인텔리전스를 통해 사용자가 업로드한 영수증 이미지로부터 텍스트를 자동 추출해 비용 기록을 용이하게 하는 기능도 제공합니다.
@@ -93,7 +93,7 @@ After graduating, I embarked on my professional journey as a Software Engginer a
 
 <br/>
 
-### 🔭 Current Projects I Am Actively Involved In
+### 🔭 Recent Projects
 
 - **[Settle Up](https://github.com/Settle-Up/settle-up-client)** <br/>
       Settle Up is a long-term expense sharing/tracking web application. It stands out in a crowded market by offering users the ability to set up groups, track multiple expenses over time, and calculate cost distribution among group members. Unlike typical services that only handle single expenses, Settle Up is designed to manage and distribute costs for numerous expenses accumulated over a period. This is achieved through a sophisticated graph algorithm that optimizes transactions between group members. Moreover, the app enhances user experience by allowing expense recording through receipt image uploads. Utilizing Azure AI Document Intelligence, it automatically extracts and processes receipt data. Users can easily attribute expenses to specific group members, even allocating variable quantities per item for more accurate split of costs.
