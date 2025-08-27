@@ -43,16 +43,7 @@
 - **[Tasktagram](https://github.com/teamprojectinfrean1/Frontend)** <br/>
         프론트엔드 개발자로서, 전통적인 프로젝트 관리 플랫폼과 소셜 미디어 요소를 결합한 협업 작업 관리 웹 애플리케이션 개발에 참여하고 있습니다. 이 과정에서 두 명의 다른 프론트엔드 개발자, 한 명의 UX 디자이너, 그리고 다섯 명의 백엔드 인력과 협력하고 있습니다. Jira와 같은 플랫폼에서 영감을 받아, Tasktagram은 사용자가 '할 일', '진행 중', '완료' 등 다양한 단계에서 작업을 생성, 추적, 진행할 수 있는 동적 인터페이스를 제공합니다. Instagram 스토리를 연상시키는 소셜 기능을 통해, 팀 구성원들이 진행 중인 작업의 상태를 공유하고 볼 수 있어 프로젝트 내 협업과 참여를 증진시코자 하는 목적을 갖고 있는 서비스입니다.
 
-<br/>
-<h4 align="right"> 저와 연결해요 !</h4>
-<p align="right">
-  <a href="mailto:soopark401@gmail.com">
-    <img src="https://img.icons8.com/fluent/48/000000/mail.png" width="35px" alt="이메일"/>
-  </a>
-  <a href="https://www.linkedin.com/in/soop/">
-    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" width="35px" alt="링크드인"/>
-  </a>
-</p>
+
 
 
 # Hi there 👋
@@ -102,17 +93,7 @@ After graduating, I embarked on my professional journey as a Software Engginer a
         Tasktagram is a collaborative task management web application, ingeniously blending traditional project management with social media elements to enhance team productivity and workflow. Inspired by platforms like Jira, Tasktagram offers a dynamic interface for managing tasks, allowing users to create, track, and progress issues across different stages—from 'To Do' to 'In Progress', and ultimately 'Completed'—through an intuitive drag-and-drop system. What truly distinguishes Tasktagram is its unique social feature, reminiscent of Instagram's stories, where team members can share and view the status of tasks in progress, fostering greater collaboration and engagement within projects. This app is not just a tool for task management; it's a bridge that connects the functionality of a rigorous project management system with the interactive, user-friendly aspects of a social platform, embodying its namesake by merging task tracking with a social glimpse into team dynamics. Through its streamlined design, Tasktagram aims to revolutionize the way teams approach project completion, ensuring better tracking, transparency, and team synergy.
 
 
-<br/>
-
-<h4 align="right"> Connect with Me !</h4>
-<p align="right">
-  <a href="mailto:soopark401@gmail.com">
-    <img src="https://img.icons8.com/fluent/48/000000/mail.png" width="35px" alt="Email"/>
-  </a>
-  <a href="https://www.linkedin.com/in/soop/">
-    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" width="35px" alt="LinkedIn"/>
-  </a>
-</p>
+\
 
 
 
